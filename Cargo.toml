@@ -1,0 +1,20 @@
+[package]
+name = "smorrebrod"
+version = "0.1.0"
+authors = ["Linda Zhou"]
+description = "An automation tool to install and build tools common for React developers"
+repository = "https://github.com/lhmzhou/smorrebrod"
+readme = "README.md"
+license = "N/A"
+keywords = ["shell script", "Rust", "React"]
+categories = ["development-tools"]
+edition = "2020"
+publish = false
+
+[dependencies]
+
+[dev-dependencies]
+
+[build-dependencies]
+
+[features]
